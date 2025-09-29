@@ -1,1 +1,1 @@
-`<h1>CarboFix Green</h1><p>Plateforme d'offsets carbone pour PME. Réduisez votre empreinte en un clic.</p><a pk_test_51SCifPRWKqg1vYUGU4WcpdYuVdmPuIUmG3x1aGazOlF22eyGfhWDPTwt0RQjMEGXtb2etW2na4GB6oQMQjhJcum400Chm3tRIn >Commencer à compenser</a>`
+`<h1>CarboFix Green</h1><p>Plateforme d'offsets carbone pour PME. Réduisez votre empreinte en un clic.</p><script src=https://checkout.stripe.com/checkout.js class=stripe-button data-key=pk_test_ta_clé_ici data-amount=100 data-name=CarboFix Green data-description=1 tonne de CO2 data-currency=eur> </script> >Commencer à compenser</a>`
